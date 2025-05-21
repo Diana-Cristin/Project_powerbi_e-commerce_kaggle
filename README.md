@@ -2,13 +2,18 @@
 El projecto busca desglosar y analizar los datos relacionados a las órdenes generadas en la E-commerce mediante dashboards en PowerBI
 
 * Fuente de datos: 
-   Kaggle----- https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset?resource=download
+
+  Kaggle----- https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset?resource=download
    Este dataset abarca datos detallados de las órdenes generadas de una E-commerce por lo que contiene 5 tablas.
-* Objetivo
- Con los dashboards en Power BI se buscó desglosar los datos en diversos campos como los clientes y productos, procesos internos, control financiero y crecimiento financiero.
+
+* Objetivo:
+  
+  Con los dashboards en Power BI se buscó desglosar los datos en diversos campos como los clientes y productos, procesos internos, control 
+  financiero y crecimiento financiero.
 
 * Desarrollo
-Para ello se realizaron los siguientes pasos a continuación.
+  
+  Para ello se realizaron los siguientes pasos a continuación.
 
 1. Importar los archivos desde  el local.
 2. Transformación de los datos en Power Query (nulos, duplicados)
